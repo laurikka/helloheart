@@ -1,6 +1,7 @@
 all: helloheart.prg
 
 helloheart.prg: helloheart.s
-		vasm6502_oldstyle -Fbin -cbm-prg helloheart.s -o helloheart.prg
-		denise.exe helloheart.prg
+		vasm6502_oldstyle -Fbin -illegal -cbm-prg helloheart.s -o helloheart.prg
+		retrodebugger helloheart.prg
+#		denise helloheart.prg
 
