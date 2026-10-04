@@ -9,9 +9,14 @@ Also included is a sid-version and separate sid source that could be useful to s
 
 Tools used: Vasm, Retrodebugger, VSCodium, Denise, Vice
 
+
 Vasm: http://sun.hasenbraten.de/vasm/
+
 Retrodebugger: https://github.com/slajerek/RetroDebugger
+
 VSCodium: https://github.com/VSCodium/vscodium
+
 Denise: https://github.com/piciji/denise
+
 Vice: https://vice-emu.sourceforge.io/
 
